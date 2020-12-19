@@ -1,0 +1,264 @@
+{
+  "1": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "Geometri"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Kimya"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "TYT Matematik"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "AYT Matematik"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Felsefe"
+    },
+    "6": {
+      "başlangıç": "12.25",
+      "bitiş": "13.00",
+      "ders": "Coğrafya"
+    },
+    "7": {
+      "başlangıç": "13.40",
+      "bitiş": "14.10",
+      "ders": "Fizik"
+    },
+    "8": {
+      "başlangıç": "14.20",
+      "bitiş": "14.50",
+      "ders": "Türk Dili ve Edebiyatı"
+    },
+    "9": {
+      "başlangıç": "15.00",
+      "bitiş": "15.30",
+      "ders": "Biyoloji"
+    }
+  },
+  "2": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "AYT Matematik"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Fizik"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "Kimya"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "AYT Matematik"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Matematik"
+    },
+    "6": {
+      "başlangıç": "12.25",
+      "bitiş": "13.00",
+      "ders": "Tarih"
+    },
+    "7": {
+      "başlangıç": "13.40",
+      "bitiş": "14.10",
+      "ders": "Soru Çözümü"
+    },
+    "8": {
+      "başlangıç": "14.20",
+      "bitiş": "14.50",
+      "ders": "Soru Çözümü"
+    },
+    "9": {
+      "başlangıç": "15.00",
+      "bitiş": "15.30",
+      "ders": "Soru Çözümü"
+    }
+  },
+  "3": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "Türk Dili ve Edebiyatı"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Fizik"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "Kimya"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "Biyoloji"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Biyoloji"
+    },
+    "6": {
+      "başlangıç": "12.25",
+      "bitiş": "13.00",
+      "ders": "Fizik"
+    },
+    "7": {
+      "başlangıç": "13.40",
+      "bitiş": "14.10",
+      "ders": "Din"
+    },
+    "8": {
+      "başlangıç": "14.20",
+      "bitiş": "14.50",
+      "ders": "TYT Matematik"
+    },
+    "9": {
+      "başlangıç": "15.00",
+      "bitiş": "15.30",
+      "ders": "Matematik"
+    }
+  },
+  "4": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "Matematik"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Matematik (Sınav)"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "Fizik (Sınav)"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "Kimya (Sınav)"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Biyoloji"
+    },
+    "6": {
+      "başlangıç": "12.25",
+      "bitiş": "13.00",
+      "ders": "Kimya"
+    },
+    "7": {
+      "başlangıç": "13.40",
+      "bitiş": "14.10",
+      "ders": "Soru Çözümü"
+    },
+    "8": {
+      "başlangıç": "14.20",
+      "bitiş": "14.50",
+      "ders": "Soru Çözümü"
+    },
+    "9": {
+      "başlangıç": "15.00",
+      "bitiş": "15.30",
+      "ders": "Soru Çözümü"
+    }
+  },
+  "5": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "TYT Matematik"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Geometri (Sınav)"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "Kimya (Sınav)"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "Matematik (Sınav)"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Fizik"
+    },
+    "6": {
+      "başlangıç": "12.25",
+      "bitiş": "13.00",
+      "ders": "Türkçe"
+    },
+    "7": {
+      "başlangıç": "13.40",
+      "bitiş": "14.10",
+      "ders": "AYT Matematik"
+    },
+    "8": {
+      "başlangıç": "14.20",
+      "bitiş": "14.50",
+      "ders": "Geometri"
+    },
+    "9": {
+      "başlangıç": "15.00",
+      "bitiş": "15.30",
+      "ders": "Kimya"
+    }
+  },
+  "6": {
+    "1": {
+      "başlangıç": "08.40",
+      "bitiş": "09.15",
+      "ders": "Fizik"
+    },
+    "2": {
+      "başlangıç": "09.25",
+      "bitiş": "10.00",
+      "ders": "Biyoloji"
+    },
+    "3": {
+      "başlangıç": "10.10",
+      "bitiş": "10.45",
+      "ders": "Kimya"
+    },
+    "4": {
+      "başlangıç": "10.55",
+      "bitiş": "11.30",
+      "ders": "Geometri"
+    },
+    "5": {
+      "başlangıç": "11.40",
+      "bitiş": "12.15",
+      "ders": "Geometri"
+    }
+  }
+}

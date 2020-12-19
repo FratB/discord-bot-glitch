@@ -1,0 +1,21 @@
+{
+  "name": "Mario-the-Discord-Bot",
+  "version": "0.0.2",
+  "description": "A discord bot with 'discord.js'.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "node-fetch": "^2.6.1",
+    "utf8": "^3.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/mario-discord-bot"
+  },
+  "license": "MIT"
+}
